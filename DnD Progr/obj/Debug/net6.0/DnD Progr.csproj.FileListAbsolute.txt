@@ -1,0 +1,15 @@
+C:\Users\NoMoreErrors\Desktop\DnD Progr\bin\Debug\net6.0\DnD Progr.exe
+C:\Users\NoMoreErrors\Desktop\DnD Progr\bin\Debug\net6.0\DnD Progr.deps.json
+C:\Users\NoMoreErrors\Desktop\DnD Progr\bin\Debug\net6.0\DnD Progr.runtimeconfig.json
+C:\Users\NoMoreErrors\Desktop\DnD Progr\bin\Debug\net6.0\DnD Progr.dll
+C:\Users\NoMoreErrors\Desktop\DnD Progr\bin\Debug\net6.0\DnD Progr.pdb
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.csproj.AssemblyReference.cache
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.AssemblyInfoInputs.cache
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.AssemblyInfo.cs
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.csproj.CoreCompileInputs.cache
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.dll
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\refint\DnD Progr.dll
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.pdb
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\DnD Progr.genruntimeconfig.cache
+C:\Users\NoMoreErrors\Desktop\DnD Progr\obj\Debug\net6.0\ref\DnD Progr.dll
